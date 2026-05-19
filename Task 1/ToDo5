@@ -1,0 +1,6 @@
+car = {
+    "brand" : "Toyota",
+    "model" : "Corolla",
+}
+car["year"] = 2026
+print(car)
