@@ -1,5 +1,3 @@
+n=input("what is my favorite color ")
+print("my favorite color is: " + n)
 
-name = input("what is your favourite color ")
-
-
-print("Your favorite color is [" + name + "]")
